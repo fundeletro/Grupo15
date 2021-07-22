@@ -20,18 +20,26 @@
  <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente elétrica, que é a movimentação das cargas, é calculada pela quantidade de cargas que atravessam a secção reta de um condutor a cada segundo.
   </font>
 </P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):
+  </font>
+</P>
   
   
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: "[...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]". No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
+<P align="justify"><font face="arial" size="3">A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Ohm, será considerado as respostas das partículas a um campo elétrico.</font>
  </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m<sub>1</sub>) e 2 (massa m<sub>2</sub>) onde há um deslocamento relativo r<sub>12</sub>.
+
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Ohm caracterizada pela equação:</font>
+ </P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Ohm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico iVobtemos:
   </font>
 </P>
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos Ilustrar da seguinte forma esse comportamento:
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pode ser observado que somente o gráfico (a) representa um condutor ôhmico, que caracteriza a maioria dos condutores existentes. O gráfico (b) caracteriza uma válvula de diodo que conduz corrente somente em um sentido e o gráfico (c) que representa um diodo semicondutor no qual a resistência depende da diferença de potencial e ocorre uma variação quando ocorre uma mudança de polaridade. Na figura (b) e (c) temos exemplos de condutores muito utilizados em circuitos elétricos devido aos seus fenômenos que não são comuns na natureza.
   </font>
 </P>
 
@@ -65,7 +73,7 @@
 
 <hr>
 
-<p><h2><CENTER>Força Elétrica</CENTER></h2></p>
+<p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 <h3><CENTER><font size="4">Carga Elétrica</font></CENTER></h3>
 
