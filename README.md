@@ -29,7 +29,7 @@
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Ohm, será considerado as respostas das partículas a um campo elétrico.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Ohm, será considerado as respostas das partículas a um campo elétrico.</font>
  </P>
 
 
@@ -59,17 +59,6 @@
   </CENTER>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r<sub>12</sub>=|r<sub>12</sub>| é a distância entre as partículas 1 e 2. Ao passo que ^r=<b>r<sub>12</sub></b>/r<sub>12</sub> é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F<sub>2(1)</sub>, exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r<sub>12</sub> fazendo com que a relação adquira o sinal negativo.
-  </font>
-</P>
-  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na relação o símbolo “G” representa a constante gravitacional universal, ou seja, é invariável em relação a qualquer partícula ou meio inserida. Seu valor no sistema internacional de medidas é:
-  </font>
-</P>
-
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=231 HEIGHT=55>
-  </CENTER>
 
 <hr>
 
@@ -78,7 +67,7 @@
 <h3><CENTER><font size="4">Carga Elétrica</font></CENTER></h3>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conceito de carga vem da observação da natureza: nós observamos forças entre objetos. Carga elétrica é a propriedade dos objetos que leva a esta percepção de força, é a grandeza física que determina a intensidade das interações eletromagnéticas, da mesma forma que a massa determina a intensidade das forças gravitacionais.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Ohm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -86,7 +75,7 @@
 cellpadding="10">
 <tr>
 
-<td width="50%" valign="top"><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
+<td width="50%" valign="top"><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 106 m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10-4 m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
   </font>
 </P></td>
 
