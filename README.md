@@ -101,22 +101,10 @@ cellpadding="10">
   
  <hr>
  
-<p><h2><CENTER>Relação</CENTER></h2></p>
-
-<ul type="circle">
-  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Da mesma forma que a massa determina a intensidade das forças gravitacionais, a força elétrica é proporcional ao produto das cargas.	 Ao mesmo tempo que o módulo de ambas as forças são inversamente proporcionais ao quadrado da distância.</font>
-</P></li>
-
-  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font></P></li>
-  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font></P>
-  </li>
-</ul>
+<p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
  
- <p><h3><CENTER>Aplicando os conceitos</CENTER></h3></p>
- 
- 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que apresentamos estas leis da física, sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional entre um elétron e um próton no núcleo de hidrogênio. Sendo uma aplicação simples das fórmulas já apresentadas.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade <b>p</b>, e raios a e b, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.</font>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3 x10<sup>-11</sup> m, a massa do próton =1,7 x10<sup>-27</sup> kg; massa do elétron =9,1 x10<sup>-31</sup> kg e constante universal de gravitação =6,67 x10<sup>-11</sup> N m<sup>2</sup>/kg<sup>2</sup>. Substituindo os dados, temos:</font>
