@@ -21,9 +21,17 @@
   </font>
 </P>
 
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):
   </font>
 </P>
+  
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+ </CENTER>
   
   
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
@@ -89,6 +97,23 @@ cellpadding="10">
 </tr>
 </table>
 
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretanto, mesmo que os elétrons movam-se lentamente dentro dos meios condutores, o que causa uma ativação dos circuitos elétricos quase instantânea é que, um campo elétrico é formado no fio na velocidade da luz (cerca de 300.000 km/s). Esse campo elétrico arrasta os elétrons por toda a extensão do fio quase instantaneamente.
+  </font>
+</P>
+
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude fez algumas suposições básicas, a fim de que o modelo fosse consistente:  </font>
+</P>
+ 
+ <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.   	Desconsidera-se as interações entre elétron-elétron.
+  </font>
+</P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
+</P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
+</P>
  
 <p><h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3></p>
 
