@@ -1,12 +1,12 @@
 # Grupo15
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
-<P><h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1></P>
+<P><h1> <center><font face="arial" color="blue">Modelo de Drude e Lei de Öhm</font></center></h1></P>
 
 
 <p></p>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das quatro forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da Lei de Öhm, bem como como o modelo de Drude.</font>
 </P>
 <p></p>
 
@@ -14,7 +14,15 @@
 <HR>
 <p></p>
   
-<p><h2> <CENTER>Força Gravitacional</CENTER></h2></p>
+ <p><h2> <CENTER>Corrente Elétrica</CENTER></h2></p>
+ 
+ 
+ <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente elétrica, que é a movimentação das cargas, é calculada pela quantidade de cargas que atravessam a secção reta de um condutor a cada segundo.
+  </font>
+</P>
+  
+  
+<p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
 <P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: "[...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]". No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
