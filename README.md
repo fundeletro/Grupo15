@@ -83,8 +83,6 @@
 
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
-<h3><CENTER><font size="4">Carga Elétrica</font></CENTER></h3>
-
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Ohm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
@@ -146,7 +144,7 @@ cellpadding="10">
     <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
   
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ela é dada pela razão entre a densidade de corrente e o campo elétrico:  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podendo ser expressa também como;  </font>
 </P>
 
 <CENTER>
@@ -162,66 +160,220 @@ cellpadding="10">
     <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q<sub>1</sub> e Q<sub>2</sub> são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k<sub>0</sub> é uma constante eletrostática do vácuo ( 9 x 10<sup>9</sup> N m<sup>2</sup>/ C<sup>2</sup>).
+<p><h2><CENTER>Resistividade e Condutividade</CENTER></h2></p>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando discutimos a resistência de um condutor estávamos pensando em um condutor como um todo, ou seja, estava sendo analisado macroscopicamente. Agora para introduzirmos o conceito de resistividade será necessário mudar nosso referencial de análise fazendo com que agora o condutor seja analisado microscópicamente.</font>
+</P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ao aplicarmos uma tensão em um condutor é criado um campo elétrico no qual induz uma força as partículas livres portadoras de energia fazendo com que entre em movimento adquirindo uma certa velocidade de arraste, consequentemente gerando corrente elétrica.</font>
+</P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A resistividade de um material homogêneo a resistividade é uma característica do material e independe da forma das dimensões. Porém, considerando que o material não seja homogêneo a resistividade pode variar de acordo com o local de análise. A resistividade em um ponto pode ser descrita por uma equação como sendo a razão entre o valor do campo elétrico e a densidade de corrente em cada ponto do material, onde também mostra que ambas possuem mesma direção e sentido em cada ponto:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É possível conhecer também o inverso multiplicativos da resistividade, que é conhecida como a condutividade, por esse fato temos:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
+</P>
+
+
+<p><h2><CENTER>2ª Lei de Ohm</CENTER></h2></p>
+
+
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considere o segmento de um fio condutor de comprimento L, seção transversal A, com uma corrente I e densidade de corrente J. Um esboço pode ser visto na figura abaixo.
   </P>
  </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para um campo elétrico invariável, temos as equações (1) e (2) previamente formuladas
+  </P>
+ </font>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definindo Q=n e vol, em que vol é o volume do fio. Temos:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos reescrever o quociente do volume pelo tempo por um produto entre a área da seção transversal do fio (A) e a velocidade (v) média dos elétrons. Vem que:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma vez que os elétrons estão em constante colisão com os íons, se torna necessária a definição de uma velocidade média. E pela segunda Lei de Newton temos:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analogamente, se tratando de força elétrica, podemos reescrever como F= e E. Já a aceleração pode ser escrita como sendo a=v, em que  é o tempo médio entre as colisões. Dessa forma, isolando a velocidade temos:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Então substituímos v na equação (5), vem que:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos substituir I na equação (1), teremos:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos substituir a condutividade () definida na equação (4), ficamos com:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olhando a equação (6), podemos substituir em J a equação (1). Além disso, novamente, como o fio condutor em questão possui um campo constante ao longo do tempo, então o campo elétrico (E) será igual à tensão (V) dividida pelo comprimento do fio condutor (L). Isolando a corrente, fica:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na equação (3), podemos dividir (V) em ambos os lados da igualdade, dessa forma teremos que i/V=1/R. Assim, podemos substituir na equação acima, tal que:
+  </P>
+ </font>
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se definirmos a condutividade () como sendo igual ao inverso da resistividade (), teremos que:
+  </P>
+ </font> 
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalmente, ao isolarmos a resistência (R), chegaremos na 2ª Lei de Ohm, dada por:
+  </P>
+ </font> 
+ 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
   
  <hr>
  
-<p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
+<p><h2><CENTER>Resistividade e Temperatura</CENTER></h2></p>
 
-<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
   </P>
-</font>
-
-<p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
-
-<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
-  </P>
-</font>
+ </font> 
  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade <b>p</b>, e raios a e b, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.</font>
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
+  </P>
+ </font> 
+ 
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
+  </P>
+ </font> 
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<p></p>
+
+<p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
+
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade , e raios a e b, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
+  </P>
+ </font> 
+ 
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizamos a 2ª Lei de Öhm, consideramos a horizontal sendo o eixo x, onde x=0 quando o cone tem raio a, e x=L quando o cone tem raio b. Temos que a corrente flui entre as bases, logo:</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3 x10<sup>-11</sup> m, a massa do próton =1,7 x10<sup>-27</sup> kg; massa do elétron =9,1 x10<sup>-31</sup> kg e constante universal de gravitação =6,67 x10<sup>-11</sup> N m<sup>2</sup>/kg<sup>2</sup>. Substituindo os dados, temos:</font>
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O raio do cone aumenta linearmente, logo:</font>
 </P>
 
 <CENTER>
   <img src="https://user-images.githubusercontent.com/86071531/122484392-e3e8b200-cfaa-11eb-9d4c-cffae7a09ebb.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
 </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6 x10<sup>-19</sup> C; carga do elétron =-1,6 x10<sup>19</sup> C e a constante de proporcionalidade= 9 x10<sup>9</sup> N m<sup>2</sup>/ C<sup>2</sup>. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos x=0 e r=a  na equação acima, e chegamos a d=a. Substituindo x=L e r=b, temos:</font>
 </P>
 
 <CENTER>
   <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=240 HEIGHT=227>
 </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logo temos:</font>
 </P>
 
   <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2 x10<sup>39</sup> vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que a área da seção transversal do cone é igual há:</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando se é pensado nas interações, tanto gravitacional quanto eletrostática, no meio macroscópico precisamos fixar um referencial para que seja possível discutir as implicações de ambas no meio ao redor da vida.</font>
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos na integral inicial, e assim temos:</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando é discutido apenas interações entre um próton e um elétron por uma ótica macroscópica, não conseguimos perceber essas interações no cotidiano. Apesar de ser possível ter ciência de que toda a matéria existente é constituída por meio dessas interações, que formam os átomos. Nessa ótica, discutir as interações gravitacionais se torna irrisório, devido a baixíssima massa das partículas, tendo em vista que são desprezíveis comparadas às forças elétricas.</font>
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim temos que que a resistência entre as duas faces do cone será:</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma discussão sobre interações de objetos do dia a dia, pode ser colocado que elas não são observadas facilmente devido à baixíssima magnitude de suas forças, mas é possível observá-las. Uma experiência para que seja percebido uma interação de força elétrica com objetos do cotidiano é por exemplo a eletricidade estática de algumas televisões antigas, que conseguem atrair, por exemplo, pelos do braço de uma pessoa, tendo em vista que durante um momento esses objetos possuem cargas, negativas ou positivas. Observar as atrações gravitacionais entre dois objetos do cotidiano se torna impossível devido a essas forças por possuírem magnitudes extremamente baixas. Por exemplo, quando uma pessoa guarda um mamão ao lado de uma goiaba em uma fruteira essa pessoa terá uma preocupação com atração gravitacional entre elas? As frutas irão se tocar após um determinado tempo devido a atração? A resposta para essa pergunta é que nunca irão se tocar devido a baixíssima força de atração gravitacional entre elas, observando também que a força de atrito entre as superfícies das frutas e da fruteira é maior que a força de atração fazendo com que elas permaneçam estáticas. (Gostaria de saber a força de atração entre um determinado mamão e uma determinada goiaba clique <a href="https://youtu.be/Ml97r6O_WgE">aqui</a>).</font>
-</P>
-
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122496390-118d2580-cfc2-11eb-933a-e14151929218.jpg" WIDTH=269 HEIGHT=231 ALIGN="RIGHT" alt="Primeiro Registro de um Buraco Negro" title="Foto de um buraco negro">&nbsp;&nbsp;&nbsp;&nbsp;Discutindo interações de corpos celestes a força gravitacional é muito mais perceptível, um grande exemplo é um buraco negro, objeto com a massa imensamente grande que por esse motivo possui uma força gravitacional suficientemente grande para nem a luz consiga escapar dessa atração gravitacional. Essa atração gravitacional elevada aos parâmetros humanos consegue inclusive dilatar o espaço-tempo, fazendo com que o tempo próximo a um buraco negro seja mais rápido tendo o planeta terra como referencial, como comprovado e explicado pela teoria da relatividade geral de Albert Einstein. Um outro exemplo é o próprio planeta terra que sua massa é grande o suficiente para atrair todos os objetos que estão no planeta. Por outro lado, as interações elétricas nesses referenciais são pequenas o suficiente para serem desprezíveis.</font>
-</P>
-
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma característica que faz com que a atração gravitacional seja mais percebida no dia a dia, apesar de ser uma interação mais fraca dentre as quatro fundamentais, é ela estar atrelada a massa dos corpos envolvidos, e o fato é que os humanos estão muito próximos a um corpo de massa muito grande, o planeta terra. Por esse motivo todo o tempo é possível observar a força gravitacional, pois estamos em um corpo de massa elevada. Por exemplo, uma maçã que cai na cabeça de um estudioso é devido à atração gravitacional entre a terra e o objeto, como toda e qualquer queda no planeta.</font>
-</P>
-
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
 
 
 <p><h3><CENTER>Curiosidades</CENTER></h3></p>
