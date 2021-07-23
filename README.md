@@ -28,7 +28,7 @@ p {
 
 <p></p>
 
-<P style="text-shadow: 0.1em 0.1em 0.15em #add8e6" align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da Lei de Öhm, bem como o modelo de Drude.</font>
+<P style="text-shadow: 0.1em 0.1em 0.15em #add8e6" align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Produção de Conteúdo 2 - Grupo 15 - Bruno Fernandes e Guilherme Chaves (TA1).</font>
 </P>
 <p></p>
 
@@ -41,7 +41,7 @@ p {
 
 
 <P align="justify">
-    <font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.
+    <font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=696 HEIGHT=900 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.
     </font>
 </P>
 
@@ -50,7 +50,7 @@ p {
  </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG" NAME="IMG2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG" NAME="IMG2" ALIGN=BOTTOM WIDTH=74 HEIGHT=49>
   </CENTER>
 
 
@@ -59,7 +59,7 @@ p {
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG" NAME="IMG3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG" NAME="IMG3" ALIGN=BOTTOM WIDTH=554 HEIGHT=180>
   </CENTER>
 
 
@@ -73,7 +73,7 @@ p {
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, podendo ser utilizado para deduzir a lei de Öhm. Paul Drude (1863-1906) considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=275 HEIGHT=380 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, podendo ser utilizado para deduzir a lei de Öhm. Paul Drude (1863-1906) considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -88,7 +88,7 @@ cellpadding="10">
 <td width="50%" valign="top">
 <P>
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=252 HEIGHT=151 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
+    <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=322 HEIGHT=172 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
   </CENTER>
 </P></td>
 
@@ -103,23 +103,20 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude propôs algumas hipóteses, a fim de que o modelo fosse consistente:  </font>
 </P>
  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   1.  Desconsidera-se as interações entre elétron-elétron.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;Desconsidera-se as interações entre elétron-elétron.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   2.  As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   3.  Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
 </P>
  
    <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732881-4e1f4885-63ca-4d79-a9a4-14c47490a564.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732881-4e1f4885-63ca-4d79-a9a4-14c47490a564.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=90 HEIGHT=60>
   </CENTER>
 
 
@@ -135,21 +132,21 @@ cellpadding="10">
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733131-bd32882a-d8e3-4d99-9ed8-128a99e5a9bb.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733131-bd32882a-d8e3-4d99-9ed8-128a99e5a9bb.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=90 HEIGHT=70>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É possível conhecer também o inverso multiplicativos da resistividade, que é conhecida como a condutividade, por esse fato temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733158-8c19e4a1-edeb-4282-9484-a20f21182d6a.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733158-8c19e4a1-edeb-4282-9484-a20f21182d6a.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=90 HEIGHT=70>
   </CENTER>
   
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=460 HEIGHT=231>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tensão dV entre as secções A e B é</font>
