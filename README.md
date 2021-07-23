@@ -1,7 +1,14 @@
 <style>
 body {
-background-color: pink
+background-color: #add8e6
 }
+h1 {
+    background-color: #87cefa;
+}
+p {
+    background-color: #FFFFFF);
+}
+</style>
 
 # Grupo15
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
@@ -397,4 +404,4 @@ cellpadding="10">
 <p align="justify"><font face="arial" size="3">YOUNG & FREEDMAN. <b>Física III: Eletromagnetismo</b>. São Paulo, 2015.</font></p>
 <p align="justify"><font face="arial" size="3">TODAMATÉRIA. <b>Lei de Coulomb</b>. Disponível em: https://www.todamateria.com.br/lei-de-coulomb/. Acesso em: 16 de Junho de 2021.</font></p>
 
-</style>
+
