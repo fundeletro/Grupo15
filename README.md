@@ -1,6 +1,6 @@
 <style>
 body {
-    background-color: #f2f2f2;
+    background-color: ;
 }
 h1 {
     color: white
@@ -12,11 +12,11 @@ h2 {
 }
 h3 {
     color: white
-    background-color: #f2f2f2;
+    background-color: ;
 }
 p {
     color: white
-    background-color: #f2f2f2;
+    background-color: ;
 }
 </style>
 
@@ -46,7 +46,7 @@ p {
 </P>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm (1789-1854) afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de <i>resistência elétrica</i>. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm (<i>1789</i>-<i>1854</i>) afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de <i>resistência elétrica</i>. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
@@ -63,7 +63,7 @@ p {
   </CENTER>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pode ser observado que somente o gráfico (a) representa um condutor ôhmico, que caracteriza a maioria dos condutores existentes. O gráfico (b) caracteriza uma válvula de diodo que conduz corrente somente em um sentido e o gráfico (c) que representa um diodo semicondutor no qual a resistência depende da diferença de potencial e ocorre uma variação quando ocorre uma mudança de polaridade. Na figura (b) e (c) temos exemplos de condutores muito utilizados em circuitos elétricos devido aos seus fenômenos que não são comuns na natureza.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pode ser observado que somente o gráfico (<i>a</i>) representa um condutor ôhmico, que caracteriza a maioria dos condutores existentes. O gráfico (<i>b</i>) caracteriza uma válvula de diodo que conduz corrente somente em um sentido e o gráfico (<i>c</i>) que representa um diodo semicondutor no qual a resistência depende da diferença de potencial e ocorre uma variação quando ocorre uma mudança de polaridade. Na figura (<i>b</i>) e (<i>c</i>) temos exemplos de condutores muito utilizados em circuitos elétricos devido aos seus fenômenos que não são comuns na natureza.
   </font>
 </P>
 
@@ -73,7 +73,7 @@ p {
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=275 HEIGHT=380 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, podendo ser utilizado para deduzir a lei de Öhm. Paul Drude (1863-1906) considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=275 HEIGHT=380 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, podendo ser utilizado para deduzir a lei de Öhm. Paul Drude (<i>1863</i>-<i>1906</i>) considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -105,9 +105,8 @@ p {
         </P>
     <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;Tempo de Relaxação (&tau;): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade <i>1</i>/&tau; de ocorrer.</font>
         </P>
-</ol>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F<sup>&rarr;</sup>. Logo, há também, uma velocidade de arraste v<sup>&rarr;</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica <i>F</i><sup>&rarr;</sup>. Logo, há também, uma velocidade de arraste <i>v</i><sup>&rarr;</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
 </P>
  
    <CENTER>
@@ -195,7 +194,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=227 HEIGHT=57>
   </CENTER>
   
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que &#961; é a resistividade à temperatura <i>T</i> e <i>&phi;<sub>0</sub></i> é a resistividade a <i>T<sub>0</sub></i>. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que &#961; é a resistividade à temperatura <i>T</i> e <i>&rho;<sub>0</sub></i> é a resistividade a <i>T<sub>0</sub></i>. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
   </P>
  </font> 
  
@@ -211,7 +210,7 @@ p {
 
 <p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &phi;, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &rho;, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
   </P>
  </font> 
  
