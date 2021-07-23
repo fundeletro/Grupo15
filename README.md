@@ -1,5 +1,3 @@
-<head>
-<style>
 body {
 background-color: green
 }
@@ -398,5 +396,3 @@ cellpadding="10">
 <p align="justify"><font face="arial" size="3">YOUNG & FREEDMAN. <b>Física III: Eletromagnetismo</b>. São Paulo, 2015.</font></p>
 <p align="justify"><font face="arial" size="3">TODAMATÉRIA. <b>Lei de Coulomb</b>. Disponível em: https://www.todamateria.com.br/lei-de-coulomb/. Acesso em: 16 de Junho de 2021.</font></p>
 
-</style>
-</head>
