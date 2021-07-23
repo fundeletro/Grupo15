@@ -4,20 +4,20 @@ body {
     background-attachment: fixed;
 }
 h1 {
-    color: white
-    background-color: #f2f2f2;
+    color: 
+    background-color: #ffffff;
 }
 h2 {
-    color: white
-    background-color: #f2f2f2;
+    color: 
+    background-color: #ffffff;
 }
 h3 {
-    color: white
-    background-color: ;
+    color: 
+    background-color: #ffffff;
 }
 p {
-    color: white
-    background-color: ;
+    color: 
+    background-color: #ffffff;
 }
 </style>
 
