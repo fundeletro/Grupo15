@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: #d24dff
+}
+
 # Grupo15
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
@@ -114,14 +122,14 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude fez algumas suposições básicas, a fim de que o modelo fosse consistente:  </font>
 </P>
  
- <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.   	Desconsidera-se as interações entre elétron-elétron.
+ <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.  Desconsidera-se as interações entre elétron-elétron.
   </font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
 </P>
  
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
@@ -391,3 +399,7 @@ cellpadding="10">
 <p align="justify"><font face="arial" size="3">CORRADI, Wagner. <b>Fundamentos de Física I </b>/. Disponível em: http://lilith.fisica.ufmg.br/~wag/TRANSF/TEACHING/FUNDAMENTOS_FISICA3_2PP_<br>OUT2010_WCORRADI.pdf. Acesso em 16 de junho de 2021.</font></p>
 <p align="justify"><font face="arial" size="3">YOUNG & FREEDMAN. <b>Física III: Eletromagnetismo</b>. São Paulo, 2015.</font></p>
 <p align="justify"><font face="arial" size="3">TODAMATÉRIA. <b>Lei de Coulomb</b>. Disponível em: https://www.todamateria.com.br/lei-de-coulomb/. Acesso em: 16 de Junho de 2021.</font></p>
+
+</style>
+</head>
+</html>
