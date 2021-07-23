@@ -1,16 +1,26 @@
 <style>
 body {
-background-color: #add8e6
+background-color: black
 }
 h1 {
+    color: white
+    background-color: #87cefa;
+}
+h2 {
+    color: white
+    background-color: #87cefa;
+}
+h3 {
+    color: white
     background-color: #87cefa;
 }
 p {
+    color: white
     background-color: #FFFFFF);
 }
 </style>
 
-# Grupo15
+
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
 <P><h1> <center><font face="arial" color="blue">Modelo de Drude e Lei de Öhm</font></center></h1></P>
