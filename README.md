@@ -40,7 +40,7 @@ p {
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.</font>
+<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.</font>
  </P>
 
 
