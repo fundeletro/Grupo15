@@ -104,7 +104,7 @@ p {
 <li><P align="justify"><font face="arial" size="3">2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
 </P>
 
-<li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (&tau): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/&tau de ocorrer.</font>
+<li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (&tau;): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade <i>1</i>/&tau; de ocorrer.</font>
     </P>
 </ol>
 
