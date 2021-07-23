@@ -108,7 +108,7 @@ p {
     </P>
 </ol>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F<sup>&rarr</sup>. Logo, há também, uma velocidade de arraste v<sup>&rarr</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F<sup>&rarr;</sup>. Logo, há também, uma velocidade de arraste v<sup>&rarr;</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
 </P>
  
    <CENTER>
@@ -196,7 +196,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=227 HEIGHT=57>
   </CENTER>
   
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que &phi é a resistividade à temperatura <i>T</i> e <i>&phi<sub>0</sub></i> é a resistividade a <i>T<sub>0</sub></i>. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que &#961; é a resistividade à temperatura <i>T</i> e <i>&phi;<sub>0</sub></i> é a resistividade a <i>T<sub>0</sub></i>. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
   </P>
  </font> 
  
@@ -212,7 +212,7 @@ p {
 
 <p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &phi, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &phi;, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
   </P>
  </font> 
  
