@@ -1,6 +1,7 @@
 <style>
 body {
-    background-color: ;
+    "background-image: url('https://user-images.githubusercontent.com/86071531/126739403-deef870a-ee85-4734-91c9-8688a83d9d6e.jpg');"
+ ;
 }
 h1 {
     color: white
@@ -85,7 +86,7 @@ p {
 <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=322 HEIGHT=172 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
   </CENTER>
-</P><P align="justify"><font face="arial" size="1"><center>Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude</center></font>
+</P><P align="justify"><font face="arial" size="2"><center>Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude</center></font>
 </P>
 
 
