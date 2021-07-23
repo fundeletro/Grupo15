@@ -135,14 +135,14 @@ cellpadding="10">
 </P>
 
 <CENTER>
-    <img src="" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733131-bd32882a-d8e3-4d99-9ed8-128a99e5a9bb.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É possível conhecer também o inverso multiplicativos da resistividade, que é conhecida como a condutividade, por esse fato temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732614-a21ae563-3e50-44b6-8e94-53240c2271a4.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733158-8c19e4a1-edeb-4282-9484-a20f21182d6a.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
   
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
