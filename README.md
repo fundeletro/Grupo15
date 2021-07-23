@@ -1,7 +1,7 @@
 <head>
 <style>
 body {
-background-color: blue
+background-color: green
 }
 
 # Grupo15
