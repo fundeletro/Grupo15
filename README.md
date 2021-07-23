@@ -40,15 +40,17 @@ p {
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
-<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.</font>
- </P>
+<P align="justify">
+    <font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.
+    </font>
+</P>
 
 
-<P align="justify"><font face="arial" size="3"><img src="!https://user-images.githubusercontent.com/86071531/126728989-d27166de-e9fa-4859-9012-44342df636c2.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
-    <img src="!https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG" NAME="IMG2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG" NAME="IMG2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
@@ -57,7 +59,7 @@ p {
 </P>
 
   <CENTER>
-    <img src="!https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG" NAME="IMG3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG" NAME="IMG3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
@@ -71,7 +73,7 @@ p {
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Öhm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Öhm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -86,7 +88,7 @@ cellpadding="10">
 <td width="50%" valign="top">
 <P>
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura4" ALIGN=BOTTOM WIDTH=252 HEIGHT=151 alt="Repulsão e atração entre cargas." title="Repulsão e Atração entre cargas.">
+    <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=252 HEIGHT=151 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
   </CENTER>
 </P></td>
 
