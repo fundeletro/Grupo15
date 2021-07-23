@@ -44,12 +44,11 @@ p {
  </P>
 
 
-<P align="justify"><font face="arial" size="3"><img src="![IMG1](https://user-images.githubusercontent.com/86071531/126728989-d27166de-e9fa-4859-9012-44342df636c2.jpg)
-" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3"><img src="!https://user-images.githubusercontent.com/86071531/126728989-d27166de-e9fa-4859-9012-44342df636c2.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
-    <img src="![IMG2](https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG)" NAME="figura2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="!https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG" NAME="IMG2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
@@ -58,7 +57,7 @@ p {
 </P>
 
   <CENTER>
-    <img src="![IMG3](https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG)" NAME="figura3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="!https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG" NAME="IMG3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
