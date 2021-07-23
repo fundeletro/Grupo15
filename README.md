@@ -104,7 +104,7 @@ p {
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
@@ -141,49 +141,49 @@ p {
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=460 HEIGHT=231>
+    <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=400 HEIGHT=200>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tensão dV entre as secções A e B é</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733381-c5b3cdfc-1ae7-4c10-9a0c-9564426b2efe.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733381-c5b3cdfc-1ae7-4c10-9a0c-9564426b2efe.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=395 HEIGHT=94>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois E é uniforme e paralelo a dI. Por definição, a intensidade da corrente que atravessa o fio é:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733437-690353e0-d420-4956-b30d-b112a142dd60.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733437-690353e0-d420-4956-b30d-b112a142dd60.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=390 HEIGHT=96>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com isso temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733482-baa224f4-1f5d-462e-bd47-4cd9f3d1b333.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733482-baa224f4-1f5d-462e-bd47-4cd9f3d1b333.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=197 HEIGHT=100>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando agora um feio de secção transversal constante, com comprimento l do ponto A ao B ilustrado pela imagem:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733571-555da009-ca51-4626-8a3f-5c2e002f7855.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733571-555da009-ca51-4626-8a3f-5c2e002f7855.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=308 HEIGHT=118>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733586-e8c85f4a-5a18-49e1-91ba-65ef44d3a285.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733586-e8c85f4a-5a18-49e1-91ba-65ef44d3a285.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=250 HEIGHT=397>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com isso chegamos a::</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733773-ba08bae1-11f5-46b3-a3c1-2d44d1aa1619.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733773-ba08bae1-11f5-46b3-a3c1-2d44d1aa1619.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=471 HEIGHT=145>
   </CENTER>
 
 
@@ -192,7 +192,7 @@ p {
  </font> 
  
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=252 HEIGHT=63>
   </CENTER>
   
  <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que  é a resistividade à temperatura T e 0 é a resistividade a T0. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
@@ -204,7 +204,7 @@ p {
  </font> 
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126733702-d9bffeeb-43bc-4ec6-8d1d-cc211b034836.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733702-d9bffeeb-43bc-4ec6-8d1d-cc211b034836.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=574 HEIGHT=443>
   </CENTER>
 
 <p></p>
@@ -216,56 +216,56 @@ p {
  </font> 
  
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732302-e54634e8-3550-4681-bc5d-57661d519b16.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732302-e54634e8-3550-4681-bc5d-57661d519b16.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=339 HEIGHT=158>
   </CENTER>
  
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizamos a 2ª Lei de Öhm, consideramos a horizontal sendo o eixo x, onde x=0 quando o cone tem raio a, e x=L quando o cone tem raio b. Temos que a corrente flui entre as bases, logo:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732321-4dc28a88-a55a-4d57-9861-6aa4a45a5890.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732321-4dc28a88-a55a-4d57-9861-6aa4a45a5890.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=198 HEIGHT=71>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O raio do cone aumenta linearmente, logo:</font>
 </P>
 
 <CENTER>
-  <img src="https://user-images.githubusercontent.com/86071531/126732328-ceaf8440-f2e6-4121-8ece-921a78c470a2.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
+  <img src="https://user-images.githubusercontent.com/86071531/126732328-ceaf8440-f2e6-4121-8ece-921a78c470a2.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=123 HEIGHT=40>
 </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos x=0 e r=a  na equação acima, e chegamos a d=a. Substituindo x=L e r=b, temos:</font>
 </P>
 
 <CENTER>
-  <img src="https://user-images.githubusercontent.com/86071531/126732338-416907fe-37f1-4c5a-b53e-c9edfe245861.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=240 HEIGHT=227>
+  <img src="https://user-images.githubusercontent.com/86071531/126732338-416907fe-37f1-4c5a-b53e-c9edfe245861.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=370 HEIGHT=76>
 </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logo temos:</font>
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732344-ffabe43c-3682-41ff-a809-a35485a1623a.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732344-ffabe43c-3682-41ff-a809-a35485a1623a.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=174 HEIGHT=65>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que a área da seção transversal do cone é igual há:</font>
 </P>
 
  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732350-7cef614e-8be0-4f82-a936-3d969d53368b.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732350-7cef614e-8be0-4f82-a936-3d969d53368b.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=426 HEIGHT=58>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos na integral inicial, e assim temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732359-fbf94118-a6d7-44bf-bc4f-6673b86231e2.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732359-fbf94118-a6d7-44bf-bc4f-6673b86231e2.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=563 HEIGHT=266>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim temos que que a resistência entre as duas faces do cone será:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732366-79fbe481-9aa7-4d6c-956f-77bd6bfdbbe7.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732366-79fbe481-9aa7-4d6c-956f-77bd6bfdbbe7.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=172 HEIGHT=63>
   </CENTER>
 
 
