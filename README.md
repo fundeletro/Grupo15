@@ -1,11 +1,7 @@
 <style>
 body {
-    background-image: url('https://user-images.githubusercontent.com/86071531/126739403-deef870a-ee85-4734-91c9-8688a83d9d6e.jpg') center center no-repeat fixed;
-    -webkit-backgroud-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
- ;
+    background-image: url("https://user-images.githubusercontent.com/86071531/126739403-deef870a-ee85-4734-91c9-8688a83d9d6e.jpg");
+    background-attachment: fixed;
 }
 h1 {
     color: white
