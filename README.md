@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
-background-color: #d24dff
+background-color: blue
 }
 
 # Grupo15
