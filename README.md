@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url("https://user-images.githubusercontent.com/86071531/126739403-deef870a-ee85-4734-91c9-8688a83d9d6e.jpg");
+    background-image: url("https://user-images.githubusercontent.com/86071531/126740753-62be7669-470f-4be7-9d8f-bf0a252ae7fe.jpg");
     background-attachment: fixed;
 }
 h1 {
