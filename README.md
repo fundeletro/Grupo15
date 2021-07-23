@@ -207,56 +207,56 @@ cellpadding="10">
  </font> 
  
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732302-e54634e8-3550-4681-bc5d-57661d519b16.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
  
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizamos a 2ª Lei de Öhm, consideramos a horizontal sendo o eixo x, onde x=0 quando o cone tem raio a, e x=L quando o cone tem raio b. Temos que a corrente flui entre as bases, logo:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732321-4dc28a88-a55a-4d57-9861-6aa4a45a5890.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O raio do cone aumenta linearmente, logo:</font>
 </P>
 
 <CENTER>
-  <img src="https://user-images.githubusercontent.com/86071531/122484392-e3e8b200-cfaa-11eb-9d4c-cffae7a09ebb.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
+  <img src="https://user-images.githubusercontent.com/86071531/126732328-ceaf8440-f2e6-4121-8ece-921a78c470a2.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
 </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos x=0 e r=a  na equação acima, e chegamos a d=a. Substituindo x=L e r=b, temos:</font>
 </P>
 
 <CENTER>
-  <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=240 HEIGHT=227>
+  <img src="https://user-images.githubusercontent.com/86071531/126732338-416907fe-37f1-4c5a-b53e-c9edfe245861.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=240 HEIGHT=227>
 </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logo temos:</font>
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732344-ffabe43c-3682-41ff-a809-a35485a1623a.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que a área da seção transversal do cone é igual há:</font>
 </P>
 
  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732350-7cef614e-8be0-4f82-a936-3d969d53368b.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos na integral inicial, e assim temos:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732359-fbf94118-a6d7-44bf-bc4f-6673b86231e2.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim temos que que a resistência entre as duas faces do cone será:</font>
 </P>
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/126732366-79fbe481-9aa7-4d6c-956f-77bd6bfdbbe7.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
 
@@ -264,7 +264,7 @@ cellpadding="10">
 
 <font face="arial" size="3">
 <CENTER>
-  <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
+  <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3e"></IFRAME>
 </CENTER>
 </font>
 
