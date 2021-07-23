@@ -44,9 +44,20 @@
 <P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Ohm caracterizada pela equação:</font>
  </P>
 
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Ohm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico iVobtemos:
   </font>
 </P>
+
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pode ser observado que somente o gráfico (a) representa um condutor ôhmico, que caracteriza a maioria dos condutores existentes. O gráfico (b) caracteriza uma válvula de diodo que conduz corrente somente em um sentido e o gráfico (c) que representa um diodo semicondutor no qual a resistência depende da diferença de potencial e ocorre uma variação quando ocorre uma mudança de polaridade. Na figura (b) e (c) temos exemplos de condutores muito utilizados em circuitos elétricos devido aos seus fenômenos que não são comuns na natureza.
   </font>
 </P>
@@ -115,7 +126,33 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
 </P>
  
-<p><h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3></p>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
+</P>
+ 
+   <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+ 
+ 
+<p><h3><CENTER><font size="4">Condutividade</font></CENTER></h3></p>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Condutividade elétrica () de um material representa a capacidade que ele tem de transportar cargas elétricas, quando submetido a uma diferença de potencial. Um material de condutividade alta tem uma facilidade de transportar cargas elétricas, enquanto um material com uma condutividade baixa, apresenta uma resistência maior ao transporte de cargas.  </font>
+</P>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ela é dada pela razão entre a densidade de corrente e o campo elétrico:  </font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ela é dada pela razão entre a densidade de corrente e o campo elétrico:  </font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+  
 
 <font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
   </P>
@@ -133,6 +170,15 @@ cellpadding="10">
  
 <p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
+<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
+  </P>
+</font>
+
+<p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
+
+<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
+  </P>
+</font>
  
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade <b>p</b>, e raios a e b, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.</font>
 </P>
