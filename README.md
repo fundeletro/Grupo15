@@ -86,7 +86,7 @@ p {
 <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=322 HEIGHT=172 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
   </CENTER>
-</P><P align="justify"><font face="arial" size="2"><center>Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude</center></font>
+</P><P align="justify"><font face="arial" size="2">Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude</font>
 </P>
 
 
