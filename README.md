@@ -1,22 +1,22 @@
 <style>
 body {
-    background-color: grey21
+    background-color: #808080
 }
 h1 {
     color: white
-    background-color: grey11;
+    background-color: #404040;
 }
 h2 {
     color: white
-    background-color: grey11;
+    background-color: #4d4d4d;
 }
 h3 {
     color: white
-    background-color: grey11;
+    background-color: #4d4d4d;
 }
 p {
     color: white
-    background-color: grey21);
+    background-color: #808080;
 }
 </style>
 
@@ -46,7 +46,7 @@ p {
 </P>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm (1789-1854) afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm (1789-1854) afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de <i>resistência elétrica</i>. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
@@ -54,7 +54,7 @@ p {
   </CENTER>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Öhm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico I x V, obtemos:
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Öhm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico <i>i</i> x <i>V</i>, obtemos:
   </font>
 </P>
 
@@ -77,7 +77,7 @@ p {
   </font>
 </P>
 
- <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 10<sup>6</sup> m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10<sup>-4</sup> m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
+ <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de <i>10<sup>6</sup> m/s</i>), diferentemente da sua velocidade de condução/arraste, que é da ordem de <i>10<sup>-4</sup> m/s</i>. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
   </font>
 </P>
 
@@ -90,24 +90,25 @@ p {
 
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretanto, mesmo que os elétrons movam-se lentamente dentro dos meios condutores, o que causa uma ativação dos circuitos elétricos quase instantânea é que, um campo elétrico é formado no fio na velocidade da luz (cerca de 300.000 km/s). Esse campo elétrico arrasta os elétrons por toda a extensão do fio quase instantaneamente.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretanto, mesmo que os elétrons movam-se lentamente dentro dos meios condutores, o que causa uma ativação dos circuitos elétricos quase instantânea é que, um campo elétrico é formado no fio na velocidade da luz (cerca de <i>300.000 km/s</i>). Esse campo elétrico arrasta os elétrons por toda a extensão do fio quase instantaneamente.
   </font>
 </P>
 
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude propôs algumas hipóteses, a fim de que o modelo fosse consistente:  </font>
 </P>
- 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;Desconsidera-se as interações entre elétron-elétron.</font>
+<ol>
+<li><P align="justify"><font face="arial" size="3">1.&nbsp;&nbsp;Desconsidera-se as interações entre elétron-elétron.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
+<li><P align="justify"><font face="arial" size="3">2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
-</P>
+<li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (&tau): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/&tau de ocorrer.</font>
+    </P>
+</ol>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F<sup>&rarr</sup>. Logo, há também, uma velocidade de arraste v<sup>&rarr</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
 </P>
  
    <CENTER>
@@ -137,21 +138,21 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126733158-8c19e4a1-edeb-4282-9484-a20f21182d6a.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=90 HEIGHT=70>
   </CENTER>
   
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal <i>S</i>, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
 </P>
 
 <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=360 HEIGHT=180>
   </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tensão dV entre as secções A e B é</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tensão <i>dV</i> entre as secções <i>A</i> e <i>B</i> é</font>
 </P>
 
 <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/126733381-c5b3cdfc-1ae7-4c10-9a0c-9564426b2efe.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=336 HEIGHT=80>
   </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois E é uniforme e paralelo a dI. Por definição, a intensidade da corrente que atravessa o fio é:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois <i>E</i> é uniforme e paralelo a <i>dI</i>. Por definição, a intensidade da corrente que atravessa o fio é:</font>
 </P>
 
 <CENTER>
@@ -165,7 +166,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126733482-baa224f4-1f5d-462e-bd47-4cd9f3d1b333.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=167 HEIGHT=85>
   </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando agora um feio de secção transversal constante, com comprimento l do ponto A ao B ilustrado pela imagem:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando agora um feio de secção transversal constante, com comprimento <i>l</i> do ponto <i>A</i> ao <i>B</i> ilustrado pela imagem:</font>
 </P>
 
 <CENTER>
@@ -195,7 +196,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=227 HEIGHT=57>
   </CENTER>
   
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que  é a resistividade à temperatura T e 0 é a resistividade a T0. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que &phi é a resistividade à temperatura <i>T</i> e <i>&phi<sub>0</sub></i> é a resistividade a <i>T<sub>0</sub></i>. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
   </P>
  </font> 
  
@@ -211,7 +212,7 @@ p {
 
 <p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade , e raios a e b, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &phi, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
   </P>
  </font> 
  
@@ -219,7 +220,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126732302-e54634e8-3550-4681-bc5d-57661d519b16.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=339 HEIGHT=158>
   </CENTER>
  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizamos a 2ª Lei de Öhm, consideramos a horizontal sendo o eixo x, onde x=0 quando o cone tem raio a, e x=L quando o cone tem raio b. Temos que a corrente flui entre as bases, logo:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizamos a 2ª Lei de Öhm, consideramos a horizontal sendo o eixo <i>x</i>, onde <i>x= 0</i> quando o cone tem raio <i>a</i>, e <i>x= L</i> quando o cone tem raio <i>b</i>. Temos que a corrente flui entre as bases, logo:</font>
 </P>
 
 <CENTER>
@@ -233,7 +234,7 @@ p {
   <img src="https://user-images.githubusercontent.com/86071531/126732328-ceaf8440-f2e6-4121-8ece-921a78c470a2.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=123 HEIGHT=40>
 </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos x=0 e r=a  na equação acima, e chegamos a d=a. Substituindo x=L e r=b, temos:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substituímos <i>x= 0</i> e <i>r= a</i>  na equação acima, e chegamos a <i>d= a</i>. Substituindo <i>x= L</i> e <i>r= b</i>, temos:</font>
 </P>
 
 <CENTER>
