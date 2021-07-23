@@ -123,7 +123,7 @@ cellpadding="10">
   </CENTER>
 
 
-<p><h2><CENTER>Resistividade e Condutividade</CENTER></h2></p>
+<p><h2><CENTER>Resistividade e Temperatura</CENTER></h2></p>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando discutimos a resistência de um condutor estávamos pensando em um condutor como um todo, ou seja, estava sendo analisado macroscopicamente. Agora para introduzirmos o conceito de resistividade será necessário mudar nosso referencial de análise fazendo com que agora o condutor seja analisado microscópicamente.</font>
 </P>
@@ -147,29 +147,72 @@ cellpadding="10">
   
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
 </P>
-  
- <hr>
- 
-<p><h2><CENTER>Resistividade e Temperatura</CENTER></h2></p>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733271-f58793f6-5312-4fd1-a7d6-9383e3b7f8b5.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tensão dV entre as secções A e B é</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733381-c5b3cdfc-1ae7-4c10-9a0c-9564426b2efe.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois E é uniforme e paralelo a dI. Por definição, a intensidade da corrente que atravessa o fio é:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733437-690353e0-d420-4956-b30d-b112a142dd60.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com isso temos:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733482-baa224f4-1f5d-462e-bd47-4cd9f3d1b333.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando agora um feio de secção transversal constante, com comprimento l do ponto A ao B ilustrado pela imagem:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733571-555da009-ca51-4626-8a3f-5c2e002f7855.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos:</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733586-e8c85f4a-5a18-49e1-91ba-65ef44d3a285.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com isso chegamos a::</font>
+</P>
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/126733773-ba08bae1-11f5-46b3-a3c1-2d44d1aa1619.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+  </CENTER>
+
 
 <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
   </P>
  </font> 
  
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732594-41eb9731-952d-440d-982e-92d045e7cb0b.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733650-4d664ec9-2099-457b-934f-68376862aef7.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
   
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
+ <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temos que  é a resistividade à temperatura T e 0 é a resistividade a T0. A constante  chama-se coeficiente de temperatura da resistividade, na qual é usualmente positiva para metais, mas negativa para materiais semicondutores. São consideradas temperaturas não muito distantes do ambiente, pois por exemplo, a temperaturas muito baixas temos a supercondutividade.
   </P>
  </font> 
  
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A condutividade é dependente da temperatura e é um fato experimental que a condutividade varia com a temperatura de modo linear dentre uma faixa larga de temperaturas:
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A tabela abaixo descreve bem os valores da resistividade e do coeficiente de temperatura de alguns materiais, sejam eles condutores, semicondutores ou isolantes.
   </P>
  </font> 
 
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/126732569-a9fa3246-db3c-4ea7-9148-8011134fe8bd.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126733702-d9bffeeb-43bc-4ec6-8d1d-cc211b034836.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 <p></p>
