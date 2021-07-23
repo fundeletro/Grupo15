@@ -1,6 +1,6 @@
 <style>
 body {
-"background-image: https://3.bp.blogspot.com/-HY5pwU0Oko8/U1P9vomgZWI/AAAAAAAACqU/-uSLJZ1nBJE/s1600/background.jpg"(imagem/background.jpg)
+    background-color: grey21
 }
 h1 {
     color: white
@@ -35,48 +35,30 @@ p {
 
 <HR>
 <p></p>
-  
- <p><h2> <CENTER>Corrente Elétrica</CENTER></h2></p>
- 
- 
- <p align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente elétrica, que é a movimentação das cargas, é calculada pela quantidade de cargas que atravessam a secção reta de um condutor a cada segundo.
-  </font>
-</P>
 
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
-
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):
-  </font>
-</P>
-  
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
- </CENTER>
-  
   
 <p><h2> <CENTER>Lei de Öhm</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Ohm, será considerado as respostas das partículas a um campo elétrico.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.</font>
  </P>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Ohm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3"><img src="![IMG1](https://user-images.githubusercontent.com/86071531/126728989-d27166de-e9fa-4859-9012-44342df636c2.jpg)
+" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="![IMG2](https://user-images.githubusercontent.com/86071531/126729122-2d1a872b-9b65-4bdc-b6e4-9f0b404b561d.PNG)" NAME="figura2" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Ohm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico iVobtemos:
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Öhm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico iVobtemos:
   </font>
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="![IMG3](https://user-images.githubusercontent.com/86071531/126729137-7238b42b-6941-4482-822b-df9ae6f8d2f0.PNG)" NAME="figura3" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 
@@ -106,7 +88,7 @@ p {
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Ohm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Öhm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -208,7 +190,7 @@ cellpadding="10">
 </P>
 
 
-<p><h2><CENTER>2ª Lei de Ohm</CENTER></h2></p>
+<p><h2><CENTER>2ª Lei de Öhm</CENTER></h2></p>
 
 
 <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considere o segmento de um fio condutor de comprimento L, seção transversal A, com uma corrente I e densidade de corrente J. Um esboço pode ser visto na figura abaixo.
@@ -303,7 +285,7 @@ cellpadding="10">
     <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
   
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalmente, ao isolarmos a resistência (R), chegaremos na 2ª Lei de Ohm, dada por:
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalmente, ao isolarmos a resistência (R), chegaremos na 2ª Lei de Öhm, dada por:
   </P>
  </font> 
  
