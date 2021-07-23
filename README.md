@@ -97,15 +97,14 @@ p {
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude propôs algumas hipóteses, a fim de que o modelo fosse consistente:  </font>
 </P>
+
 <ol>
-<li><P align="justify"><font face="arial" size="3">1.&nbsp;&nbsp;Desconsidera-se as interações entre elétron-elétron.</font>
-</P>
-
-<li><P align="justify"><font face="arial" size="3">2.&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
-</P>
-
-<li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;Tempo de Relaxação (&tau;): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade <i>1</i>/&tau; de ocorrer.</font>
-    </P>
+    <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;Desconsidera-se as interações entre elétron-elétron.</font>
+        </P>
+    <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
+        </P>
+    <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;Tempo de Relaxação (&tau;): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade <i>1</i>/&tau; de ocorrer.</font>
+        </P>
 </ol>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F<sup>&rarr;</sup>. Logo, há também, uma velocidade de arraste v<sup>&rarr;</sup>, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (<i>A</i>):  </font>
