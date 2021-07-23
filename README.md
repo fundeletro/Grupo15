@@ -1,7 +1,7 @@
 <style>
 body {
     background-image: url("https://user-images.githubusercontent.com/86071531/126741203-66afd7c6-c467-4af5-bc2d-967af5bd34c7.jpg");
-    background-attachment: local;
+    background-attachment: scroll;
 }
 h1 {
     color: 
