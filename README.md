@@ -39,7 +39,7 @@ p {
  <p><h2> <CENTER>Corrente Elétrica</CENTER></h2></p>
  
  
- <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente elétrica, que é a movimentação das cargas, é calculada pela quantidade de cargas que atravessam a secção reta de um condutor a cada segundo.
+ <p style="text-shadow: 0.1em 0.1em 0.15em #add8e6" align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente elétrica, que é a movimentação das cargas, é calculada pela quantidade de cargas que atravessam a secção reta de um condutor a cada segundo.
   </font>
 </P>
 
