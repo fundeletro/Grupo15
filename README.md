@@ -114,7 +114,8 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126732881-4e1f4885-63ca-4d79-a9a4-14c47490a564.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=90 HEIGHT=60>
   </CENTER>
 
-
+<hr>
+        
 <p><h2><CENTER>Resistividade e Temperatura</CENTER></h2></p>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando discutimos a resistência de um condutor estávamos pensando em um condutor como um todo, ou seja, estava sendo analisado macroscopicamente. Agora para introduzirmos o conceito de resistividade será necessário mudar nosso referencial de análise fazendo com que agora o condutor seja analisado microscópicamente.</font>
@@ -209,6 +210,8 @@ p {
 
 <p></p>
 
+<hr>
+
 <p><h2><CENTER>Aplicando os conceitos</CENTER></h2></p>
 
 <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utilizaremos a Lei de Öhm para calcular a resistência entre entre as duas faces do cone mostrado na figura abaixo. O cone abaixo possui resistividade &rho;, e raios <i>a</i> e <i>b</i>, respectivamente. A densidade de corrente é uniforme ao longo de uma seção reta perpendicular ao eixo do objeto.
@@ -268,15 +271,7 @@ p {
     <img src="https://user-images.githubusercontent.com/86071531/126732366-79fbe481-9aa7-4d6c-956f-77bd6bfdbbe7.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=172 HEIGHT=63>
   </CENTER>
 
-
-<p><h3><CENTER>Curiosidades</CENTER></h3></p>
-
-<font face="arial" size="3">
-<CENTER>
-  <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3e"></IFRAME>
-</CENTER>
-</font>
-
+<hr>
 
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
