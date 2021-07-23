@@ -28,7 +28,7 @@ p {
 
 <p></p>
 
-<P style="text-shadow: 0.1em 0.1em 0.15em #add8e6" align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da Lei de Öhm, bem como como o modelo de Drude.</font>
+<P style="text-shadow: 0.1em 0.1em 0.15em #add8e6" align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da Lei de Öhm, bem como o modelo de Drude.</font>
 </P>
 <p></p>
 
@@ -46,7 +46,7 @@ p {
 </P>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;O físico alemão Georg Simon Ohm (1789-1854) afirmava que para um condutor mantido à temperatura constante, a razão entre a diferença de potencial entre dois pontos e a corrente elétrica é constante. Essa constante é denominada de resistência elétrica. Essa afirmação descreve a conhecida lei de Öhm caracterizada pela equação:</font>
  </P>
 
   <CENTER>
@@ -54,7 +54,7 @@ p {
   </CENTER>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Öhm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico iVobtemos:
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essa expressão não depende da natureza do condutor, ou seja, ela é válida para todos condutores que obedeçam à lei de Öhm. A resistência independe da diferença de potencial e da corrente. No entanto, existem condutores que mesmo a temperaturas constantes suas resistências dependem de suas respectivas diferenças de potenciais. Quando se é representado de maneira gráfica o comportamento da resistência em diferentes tipos de condutores em um gráfico I x V, obtemos:
   </font>
 </P>
 
@@ -73,7 +73,7 @@ p {
 <p><h2><CENTER>Modelo de Drude</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, servindo para deduzir a lei de Öhm. Paul Drude considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126730089-a871e4ba-2dbc-47eb-aa62-60da66b26bfa.gif" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Paul Drude" title="Paul Drude">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modelo de Drude é um modelo simples e útil para descrever a teoria de condução em metais de forma geral, podendo ser utilizado para deduzir a lei de Öhm. Paul Drude (1863-1906) considerou que quando há átomos unidos formando um material metálico, os elétrons da última camada se desprendem e se tornam livres, enquanto os íons permanecem fixos. A teoria consistiu em supor um gás de elétrons e utilizar conceitos provenientes da teoria cinética dos gases a fim de simplificar o modelo.
   </font>
 </P>
 
@@ -81,7 +81,7 @@ p {
 cellpadding="10">
 <tr>
 
-<td width="50%" valign="top"><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 106 m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10-4 m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
+<td width="50%" valign="top"><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 10<sup>6</sup> m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10<sup>-4</sup> m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
   </font>
 </P></td>
 
@@ -100,17 +100,17 @@ cellpadding="10">
 </P>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude fez algumas suposições básicas, a fim de que o modelo fosse consistente:  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude propôs algumas hipóteses, a fim de que o modelo fosse consistente:  </font>
 </P>
  
- <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.  Desconsidera-se as interações entre elétron-elétron.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   1.  Desconsidera-se as interações entre elétron-elétron.
   </font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2.  As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   3.  Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
 </P>
  
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
@@ -173,111 +173,6 @@ cellpadding="10">
   
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora iremos considerar um trecho de um fio de comprimento  com uma secção transversal S, no qual uma corrente   longitudinal e homogênea o atravessa de acordo com a figura abaixo:</font>
 </P>
-
-
-<p><h2><CENTER>2ª Lei de Öhm</CENTER></h2></p>
-
-
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considere o segmento de um fio condutor de comprimento L, seção transversal A, com uma corrente I e densidade de corrente J. Um esboço pode ser visto na figura abaixo.
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para um campo elétrico invariável, temos as equações (1) e (2) previamente formuladas
-  </P>
- </font>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definindo Q=n e vol, em que vol é o volume do fio. Temos:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos reescrever o quociente do volume pelo tempo por um produto entre a área da seção transversal do fio (A) e a velocidade (v) média dos elétrons. Vem que:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
-  
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma vez que os elétrons estão em constante colisão com os íons, se torna necessária a definição de uma velocidade média. E pela segunda Lei de Newton temos:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analogamente, se tratando de força elétrica, podemos reescrever como F= e E. Já a aceleração pode ser escrita como sendo a=v, em que  é o tempo médio entre as colisões. Dessa forma, isolando a velocidade temos:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Então substituímos v na equação (5), vem que:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos substituir I na equação (1), teremos:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos substituir a condutividade () definida na equação (4), ficamos com:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olhando a equação (6), podemos substituir em J a equação (1). Além disso, novamente, como o fio condutor em questão possui um campo constante ao longo do tempo, então o campo elétrico (E) será igual à tensão (V) dividida pelo comprimento do fio condutor (L). Isolando a corrente, fica:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na equação (3), podemos dividir (V) em ambos os lados da igualdade, dessa forma teremos que i/V=1/R. Assim, podemos substituir na equação acima, tal que:
-  </P>
- </font>
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
- <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se definirmos a condutividade () como sendo igual ao inverso da resistividade (), teremos que:
-  </P>
- </font> 
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
-  
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalmente, ao isolarmos a resistência (R), chegaremos na 2ª Lei de Öhm, dada por:
-  </P>
- </font> 
- 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
- 
   
  <hr>
  
@@ -376,9 +271,9 @@ cellpadding="10">
 
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
-<p align="justify"><font face="arial" size="3">NUSSENZVEIG, H. <b>Moysés Curso de Física Básica 1: Mecânica</b>, Editora Edgard Blücher, 2013.</font></p>
-<p align="justify"><font face="arial" size="3">CORRADI, Wagner. <b>Fundamentos de Física I </b>/. Disponível em: http://lilith.fisica.ufmg.br/~wag/TRANSF/TEACHING/FUNDAMENTOS_FISICA3_2PP_<br>OUT2010_WCORRADI.pdf. Acesso em 16 de junho de 2021.</font></p>
 <p align="justify"><font face="arial" size="3">YOUNG & FREEDMAN. <b>Física III: Eletromagnetismo</b>. São Paulo, 2015.</font></p>
-<p align="justify"><font face="arial" size="3">TODAMATÉRIA. <b>Lei de Coulomb</b>. Disponível em: https://www.todamateria.com.br/lei-de-coulomb/. Acesso em: 16 de Junho de 2021.</font></p>
+<p align="justify"><font face="arial" size="3">HELERBROCK, Rafael. Condutores e isolantes. Disponível em: https://brasilescola.uol.com.br/fisica/condutores-isolantes.htm. Acesso em 19 de julho de 2021.</font></p>
+<p align="justify"><font face="arial" size="3">AMORIM, Bernardo Corrêa. O Modelo de Drude para Interação com Metais. Disponível em: http://www.ifsc.usp.br/~strontium/Teaching/Material2018-1%20SFI5708%20Eletromagnetismo/Monografia%20-%20Bernardo%20-%20Modelo%20Drude.pdf". Acesso em: 19 de julho de 2021.</font></p>
+<p align="justify"><font face="arial" size="3">NUSSENZVEIG, H. Moysés, Curso de Física Básica 3: Eletromagnetismo, Editora Edgard Blücher, 2006.</font></p>
 
 
