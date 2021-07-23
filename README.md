@@ -1,22 +1,22 @@
 <style>
 body {
-    background-color: #808080
+    background-color: #f2f2f2;
 }
 h1 {
     color: white
-    background-color: #404040;
+    background-color: #f2f2f2;
 }
 h2 {
     color: white
-    background-color: #4d4d4d;
+    background-color: #f2f2f2;
 }
 h3 {
     color: white
-    background-color: #4d4d4d;
+    background-color: #f2f2f2;
 }
 p {
     color: white
-    background-color: #808080;
+    background-color: #f2f2f2;
 }
 </style>
 
