@@ -1,22 +1,22 @@
 <style>
 body {
-background-color: black
+"background-image: https://3.bp.blogspot.com/-HY5pwU0Oko8/U1P9vomgZWI/AAAAAAAACqU/-uSLJZ1nBJE/s1600/background.jpg"
 }
 h1 {
     color: white
-    background-color: #87cefa;
+    background-color: grey11;
 }
 h2 {
     color: white
-    background-color: #87cefa;
+    background-color: grey11;
 }
 h3 {
     color: white
-    background-color: #87cefa;
+    background-color: grey11;
 }
 p {
     color: white
-    background-color: #FFFFFF);
+    background-color: grey21);
 }
 </style>
 
