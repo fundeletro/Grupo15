@@ -41,7 +41,7 @@ p {
 
 
 <P align="justify">
-    <font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=175 HEIGHT=225 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.
+    <font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/126729750-aea3afd7-7f1f-4fd1-a775-29fed2592fee.jpg" WIDTH=220 HEIGHT=250 ALIGN="LEFT" alt="Georg Simon Ohm" title="Georg Simon Ohm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A corrente dentro de um meio material resulta das interações das partículas com as forças externas sofridas no meio que estão. Em suma, para ser compreendido a lei de Öhm, será considerado as respostas das partículas a um campo elétrico.
     </font>
 </P>
 
@@ -77,23 +77,18 @@ p {
   </font>
 </P>
 
- <table border="0" width="100%"
-cellpadding="10">
-<tr>
-
-<td width="50%" valign="top"><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 10<sup>6</sup> m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10<sup>-4</sup> m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
+ <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo esse modelo, os elétrons livres movem-se no interior dos materiais condutores, em razão de sua temperatura, mas também, pela aplicação de um potencial elétrico. A velocidade com que os elétrons movem-se, entretanto, é extremamente alta (na ordem de 10<sup>6</sup> m/s), diferentemente da sua velocidade de condução/arraste, que é da ordem de 10<sup>-4</sup> m/s. Isso acontece porque, apesar de moverem-se em altas velocidades, os elétrons sofrem constantes colisões com os átomos que compõem o material, perdendo, assim, parte de sua velocidade.
   </font>
-</P></td>
+</P>
 
-<td width="50%" valign="top">
 <P>
 <CENTER>
     <img src="https://user-images.githubusercontent.com/86071531/126730118-ec8763bb-a74b-4511-a4ca-96bc06bfcec9.PNG" NAME="IMG5" ALIGN=BOTTOM WIDTH=322 HEIGHT=172 alt="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude" title="Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude">
   </CENTER>
-</P></td>
+</P><P align="justify"><font face="arial" size="1"><center>Trajetória de um elétron de condução espalhado pela colisão entre os íons de acordo com Drude</center></font>
+</P>
 
-</tr>
-</table>
+
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretanto, mesmo que os elétrons movam-se lentamente dentro dos meios condutores, o que causa uma ativação dos circuitos elétricos quase instantânea é que, um campo elétrico é formado no fio na velocidade da luz (cerca de 300.000 km/s). Esse campo elétrico arrasta os elétrons por toda a extensão do fio quase instantaneamente.
   </font>
