@@ -103,51 +103,25 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drude propôs algumas hipóteses, a fim de que o modelo fosse consistente:  </font>
 </P>
  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   1.  Desconsidera-se as interações entre elétron-elétron.
-  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   1.  Desconsidera-se as interações entre elétron-elétron.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2.  As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   2.  As  interações  mecânicas  entre elétrons e íons são consideradas instantâneas, assim como na Teoria Cinética dos Gases.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   3.  Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   3.  Tempo de Relaxação (): definido  como  o  tempo médio entre uma colisão e outra, com cada colisão sucessiva possuindo uma probabilidade 1/ de ocorrer.</font>
 </P>
- 
+
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na existência de um campo elétrico, existe um movimento de arraste provocado pelo campo. Esse movimento é na direção da força elétrica F. Logo, há também, uma velocidade de arraste v, a qual provoca um arraste ordenado das cargas, em um sentido determinado no condutor. Essa movimentação de cargas é denominada corrente elétrica. Definimos o módulo do vetor densidade da corrente, como o quociente da corrente elétrica pela área transversal (A):  </font>
 </P>
  
    <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/126732881-4e1f4885-63ca-4d79-a9a4-14c47490a564.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
- 
- 
-<p><h3><CENTER><font size="4">Condutividade</font></CENTER></h3></p>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Condutividade elétrica () de um material representa a capacidade que ele tem de transportar cargas elétricas, quando submetido a uma diferença de potencial. Um material de condutividade alta tem uma facilidade de transportar cargas elétricas, enquanto um material com uma condutividade baixa, apresenta uma resistência maior ao transporte de cargas.  </font>
-</P>
-
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ela é dada pela razão entre a densidade de corrente e o campo elétrico:  </font>
-</P>
-
-<CENTER>
-    <img src="" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
-  
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podendo ser expressa também como;  </font>
-</P>
-
-<CENTER>
-    <img src="" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
-  
-
-<font face="arial" size="3"><P align="justify"><img src="https://user-images.githubusercontent.com/86071531/122489289-b05f5500-cfb5-11eb-9a5d-509de6768795.jpg" WIDTH=215 HEIGHT=232 ALIGN="LEFT" alt="Charles Coulomb" title="Charles Coulomb">&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
-  </P>
-</font>
-
-  <CENTER>
-    <img src="" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
-  </CENTER>
 
 <p><h2><CENTER>Resistividade e Condutividade</CENTER></h2></p>
 
